@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://87y8qt1xb05o"
+path="res://.godot/imported/Pixel_25.wav-13670d3283874a77dea16da6abeb8758.sample"
+
+[deps]
+
+source_file="res://audio/sfx/--Pixelated UI/Pixel_25.wav"
+dest_files=["res://.godot/imported/Pixel_25.wav-13670d3283874a77dea16da6abeb8758.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
