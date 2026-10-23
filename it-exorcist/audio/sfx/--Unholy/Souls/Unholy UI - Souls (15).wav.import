@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cshnl71i25jsc"
+path="res://.godot/imported/Unholy UI - Souls (15).wav-e097b2eeff153e41eff525f8458f7d58.sample"
+
+[deps]
+
+source_file="res://audio/sfx/--Unholy/Souls/Unholy UI - Souls (15).wav"
+dest_files=["res://.godot/imported/Unholy UI - Souls (15).wav-e097b2eeff153e41eff525f8458f7d58.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

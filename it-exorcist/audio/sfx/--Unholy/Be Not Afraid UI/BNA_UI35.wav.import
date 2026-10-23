@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cgbbumlts3prg"
+path="res://.godot/imported/BNA_UI35.wav-7067c67e0500a310a859add78421d7a3.sample"
+
+[deps]
+
+source_file="res://audio/sfx/--Unholy/Be Not Afraid UI/BNA_UI35.wav"
+dest_files=["res://.godot/imported/BNA_UI35.wav-7067c67e0500a310a859add78421d7a3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
